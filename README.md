@@ -36,20 +36,20 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/RaviSenjalya/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ravi Senjaliya's streak"
+  <a href="https://github.com/MansiSenjaliya09/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mansi Senjaliya's streak"
 src="https://github-readme-streak-stats.herokuapp.com/?user=ravisenjaliya&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
   </a>
 </p>
 <br />
  <p align="center">
-<a  href="https://github.com/RaviSenjaliya/github-readme-stats"><img alt="Ravi Senjaliya's Top Languages"
+<a  href="https://github.com/MansiSenjaliya09/github-readme-stats"><img alt="Mansi Senjaliya's Top Languages"
  src="https://github-readme-stats.vercel.app/api?username=ravisenjaliya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>   </a>
  </P>
  <br/>
  <p align="center">
- <a align="right" href="https://github.com/RaviSenjaliya/github-readme-stats"><img alt="Ravi Senjaliya's Top Languages"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=ravisenjaliya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <a align="right" href="https://github.com/MansiSenjaliya09/github-readme-stats"><img alt="Mansi Senjaliya's Top Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=MansiSenjaliya09&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
 
@@ -58,7 +58,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=ravisenjaliya&theme=
 <br />
 <br />
 
-<a href="https://github.com/RaviSenjaliya/github-readme-activity-graph"><img alt="Ravi Senjaliya's Activity Graph"
+<a href="https://github.com/MansiSenjaliya09/github-readme-activity-graph"><img alt="Mansi Senjaliya's Activity Graph"
     src="https://activity-graph.herokuapp.com/graph?username=RaviSenjaliya&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br />
@@ -67,7 +67,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=ravisenjaliya&theme=
 
 
 ## ❤ Views and Followers
-<img src="https://komarev.com/ghpvc/?username=RaviSenjaliya&label=Profile%20views&color=0e75b6&style=flat"
-    alt="RaviSenjaliya" /> 
-<a href="https://github.com/RaviSenjaliya?tab=followers"><img
-    src="https://img.shields.io/github/followers/RaviSenjaliya?label=Followers&style=social" alt="GitHub Badge"></a>
+<img src="https://komarev.com/ghpvc/?username=MansiSenjaliya09&label=Profile%20views&color=0e75b6&style=flat"
+    alt="MansiSenjaliya09" /> 
+<a href="https://github.com/MansiSenjaliya09?tab=followers"><img
+    src="https://img.shields.io/github/followers/MansiSenjaliya09?label=Followers&style=social" alt="GitHub Badge"></a>
