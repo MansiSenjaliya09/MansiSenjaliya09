@@ -24,7 +24,7 @@
       alt="ravi senjaliya" height="30" width="40" /></a>
   <a href="https://instagram.com/mansi.senjaliya" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="r.v_senjaliya" height="30" width="40" /></a>
+      alt="mansi.senjaliya" height="30" width="40" /></a>
 </p>
 <hr>
 
