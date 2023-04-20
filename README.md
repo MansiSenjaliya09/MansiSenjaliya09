@@ -58,9 +58,9 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=ravisenjaliya&theme=
 <br />
 <br />
 
-<a href="https://github.com/MansiSenjaliya09/github-readme-activity-graph"><img alt="Mansi Senjaliya's Activity Graph"
+<!-- <a href="https://github.com/MansiSenjaliya09/github-readme-activity-graph"><img alt="Mansi Senjaliya's Activity Graph"
     src="https://activity-graph.herokuapp.com/graph?username=RaviSenjaliya&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+ -->
 <br />
 <br />
 
