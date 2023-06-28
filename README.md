@@ -52,14 +52,14 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/RaviSenjalya/github-readme-streak-stats">
+  <a href="https://github.com/MansiSenjalya/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mansi Senjaliya's streak"
 src="https://github-readme-streak-stats.herokuapp.com/?user=ravisenjaliya&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
   </a>
 </p>
 <br />
  <p align="center">
-<a  href="https://github.com/RaviSenjaliya/github-readme-stats"><img alt="Mansi Senjaliya's Top Languages"
+<a  href="https://github.com/MansiSenjaliya/github-readme-stats"><img alt="Mansi Senjaliya's Top Languages"
  src="https://github-readme-stats.vercel.app/api?username=ravisenjaliya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>   </a>
  </P>
  <br/>
