@@ -42,15 +42,8 @@
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) 
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-
-</p>
-
-
-
-<br>
+</p><br>
 <br />
-
-
 <!--  <p align="center">
 <a  href="https://github.com/MansiSenjaliya/github-readme-stats"><img alt="Mansi Senjaliya's Top Languages"
  src="https://github-readme-stats.vercel.app/api?username=ravisenjaliya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>   </a>
@@ -64,12 +57,4 @@
 
 
 
-<br />
-<br />
 
-
-## ❤ Views and Followers
-<img src="https://komarev.com/ghpvc/?username=MansiSenjaliya09&label=Profile%20views&color=0e75b6&style=flat"
-    alt="MansiSenjaliya09" /> 
-<a href="https://github.com/MansiSenjaliya09?tab=followers"><img
-    src="https://img.shields.io/github/followers/MansiSenjaliya09?label=Followers&style=social" alt="GitHub Badge"></a>
